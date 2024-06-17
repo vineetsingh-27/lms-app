@@ -6,7 +6,7 @@ export const Logo = () =>{
         height={120}
         width={120}
         alt="logo"
-        src="/logo_n.png"
+        src="/skilllift_logo.png"
         />
 
     )
